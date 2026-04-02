@@ -19,6 +19,5 @@ The simulation of quantum circuits is performed via the [TensorCircuit](https://
 Additionally, the package [Qiskit](https://github.com/Qiskit/qiskit) is needed for experiments on IBM Quantum device.
 
 
-
 ## File Structure
-The file `RPA_jax.ipynb` contains all numerical simulation with random Pauli ansatz. The file `HEA.ipynb` contains dynamics results from simulation with Hardware efficient ansatz. The file `memory_noisy_simulation_experiment.ipynb` contains experimental results on noisy simulation and IBM Quantum device. Code in `qntk_theory.py` were used to calculate analytical average results from Haar ensemble and restricted Haar ensemble.
+The file `memory_time.ipynb` contains most numerical results. The file `memory_witness.ipynb` contains presentation of noisy simulation and experimental results on IBM Quantum devices. The file `memory_noisy_simulation_experiment.ipynb` contains experimental results on noisy simulation and IBM Quantum device. 
