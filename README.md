@@ -1,5 +1,5 @@
 # QMI_monitored_dynamics
-This repository contains the official Python implementation of [*Scaling Laws of Quantum Information Lifetime in Monitored Quantum Dynamics*](https://arxiv.org/abs/2506.22755), an article by [Bingzhi Zhang](https://sites.google.com/view/bingzhi-zhang/home), [Fangjun Hu](https://scholar.google.com/citations?user=81QGlDQAAAAJ&hl=en), [Runzhe Mo], Tianyang Chen, [Hakan E Türeci](https://turecigroup.princeton.edu/) and [Quntao Zhuang](https://sites.usc.edu/zhuang).
+This repository contains the official Python implementation of [*Scaling Laws of Quantum Information Lifetime in Monitored Quantum Dynamics*](https://arxiv.org/abs/2506.22755), an article by [Bingzhi Zhang](https://sites.google.com/view/bingzhi-zhang/home), [Fangjun Hu](https://scholar.google.com/citations?user=81QGlDQAAAAJ&hl=en), [Runzhe Mo](https://scholar.google.com/citations?user=WYfkmaoAAAAJ&hl=en&oi=ao), Tianyang Chen, [Hakan E. Türeci](https://turecigroup.princeton.edu/) and [Quntao Zhuang](https://sites.usc.edu/zhuang).
 
 ## Citation
 ```
@@ -19,6 +19,5 @@ The simulation of quantum circuits is performed via the [TensorCircuit](https://
 Additionally, the package [Qiskit](https://github.com/Qiskit/qiskit) is needed for experiments on IBM Quantum device.
 
 
-
 ## File Structure
-The file `RPA_jax.ipynb` contains all numerical simulation with random Pauli ansatz. The file `HEA.ipynb` contains dynamics results from simulation with Hardware efficient ansatz. The file `HEA_qiskitv2.ipynb` contains experimental results on noisy simulation and IBM Quantum device. Code in `qntk_theory.py` were used to calculate analytical average results from Haar ensemble and restricted Haar ensemble.
+The file `memory_time.ipynb` contains most numerical results. The file `memory_witness.ipynb` contains presentation of noisy simulation and experimental results on IBM Quantum devices. The file `memory_noisy_simulation_experiment.ipynb` contains experimental results on noisy simulation and IBM Quantum device. 
