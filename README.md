@@ -1,5 +1,5 @@
 # QMI_monitored_dynamics
-This repository contains the official Python implementation of [*Scaling Laws of Quantum Information Lifetime in Monitored Quantum Dynamics*](https://arxiv.org/abs/2506.22755), an article by [Bingzhi Zhang](https://sites.google.com/view/bingzhi-zhang/home), [Fangjun Hu], [Runzhe Mo], [Tianyang Chen], [Hakan E Türeci](https://turecigroup.princeton.edu/) and [Quntao Zhuang](https://sites.usc.edu/zhuang).
+This repository contains the official Python implementation of [*Scaling Laws of Quantum Information Lifetime in Monitored Quantum Dynamics*](https://arxiv.org/abs/2506.22755), an article by [Bingzhi Zhang](https://sites.google.com/view/bingzhi-zhang/home), [Fangjun Hu](https://scholar.google.com/citations?user=81QGlDQAAAAJ&hl=en), [Runzhe Mo], Tianyang Chen, [Hakan E Türeci](https://turecigroup.princeton.edu/) and [Quntao Zhuang](https://sites.usc.edu/zhuang).
 
 ## Citation
 ```
